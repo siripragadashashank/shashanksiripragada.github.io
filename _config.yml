@@ -84,35 +84,16 @@ author:
   avatar           : "profile.png"
   bio              : "Research Fellow at CVIT, IIIT Hyderabad"
   location         : "Hyderabad"
-  employer         :
+  employer         : "IIIT Hyderabad"
   googlescholar    : "https://scholar.google.com/citations?user=8LMFVd0AAAAJ&hl=en"
-  email            :
+  email            : "siripragadashashank@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Shashank_Siripragada"
   uri              :
   bitbucket        :
   codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "shashanksiripragada"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         : "shashank-siripragada-b8762a53"
-  pinterest        :
-  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
 
 # Reading Files
 include:
