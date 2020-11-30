@@ -1,6 +1,9 @@
 # main links links
 main:
   - title: "Publications"
+    url: /about/
+
+  - title: "Publications"
     url: /publications/
 
   - title: "Experience"
@@ -14,6 +17,3 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
