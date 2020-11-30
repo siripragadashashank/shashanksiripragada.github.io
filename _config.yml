@@ -83,7 +83,7 @@ author:
   name             : "Shashank Siripragada"
   avatar           : "profile.png"
   bio              : "Research Fellow at CVIT, IIIT Hyderabad"
-  location         : "Hyderabad"
+  location         : # "Hyderabad"
   employer         : "IIIT Hyderabad"
   googlescholar    : "https://scholar.google.com/citations?user=8LMFVd0AAAAJ&hl=en"
   email            : "siripragadashashank@gmail.com"
