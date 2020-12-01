@@ -1,10 +1,9 @@
 ---
 layout: archive
 title: "Resume"
-permalink: /resume/
+permalink: /files/Resume_latest.pdf/
 author_profile: true
 redirect_from:
   - /resume
 ---
-<a href="shashanksiripragada.github.io/files/Resume_latest.pdf" target="_blank">PDF.</a>
 
