@@ -36,9 +36,8 @@ Work Experience
 
 
 * June 2016 - July 2016 : **Intern** at [**Hyundai Motors**](https://hmie.in/)
-  * Developed an application to calculate Aperture Ratio (AR) 
-    from an image of speaker grill.
-  * Built the app using OpenCV/C++ and Qt for UI.
+  * Developed an application using OpenCV/C++ and Qt to calculate 
+    Aperture Ratio (AR) from an image of speaker grill.
 
      
 Publications
