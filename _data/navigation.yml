@@ -7,14 +7,8 @@ main:
     url: /publications/
 
   - title: "Experience"
-    url: /experience/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
+    url: /experience/        
+  
   - title: "CV"
     url: /cv/
   
