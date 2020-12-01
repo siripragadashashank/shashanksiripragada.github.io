@@ -15,7 +15,7 @@ Work Experience
   * Supervisors: [**Dr. C.V. Jawahar**](https://faculty.iiit.ac.in/~jawahar/), 
     [**Dr. Vinay P. Namboodiri**](https://vinaypn.github.io/) 
   * Research focused on developing NMT systems and curating Multilingual 
-    datasets for Low-resourced Indian Languages.
+    datasets for Indian Languages.
   * Developed a [web application](https://github.com/shashanksiripragada/pib-crawl) 
     to extract parallel corpus for 10 Indian languages from news sources.
   * The corpora released trough this work were featured in translation tasks at [WMT 2020](http://www.statmt.org/wmt20/translation-task.html) and [WAT 2020](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html).
