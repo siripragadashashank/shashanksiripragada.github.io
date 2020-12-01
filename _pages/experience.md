@@ -18,7 +18,7 @@ Work Experience
     datasets for Indian Languages.
   * Developed a [web application](https://github.com/shashanksiripragada/pib-crawl) 
     to extract parallel corpus for 10 Indian languages from news sources.
-  * The corpora released trough this work were featured in translation tasks at [WMT 2020](http://www.statmt.org/wmt20/translation-task.html) and [WAT 2020](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html).
+  * The corpora released through this work were featured in translation tasks at [WMT 2020](http://www.statmt.org/wmt20/translation-task.html) and [WAT 2020](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html).
   * Trained NMT models that yield SOTA or competitive performance in [WAT Indic](http://lotus.kuee.kyoto-u.ac.jp/WAT/evaluation/index.html) translation task leaderboards. 
  
 
