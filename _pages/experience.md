@@ -14,13 +14,13 @@ Work Experience
 * May 2019 - Present : **Research Fellow** at **CVIT, IIIT Hyderabad**
   * Supervisors: [**Dr. C.V. Jawahar**](https://faculty.iiit.ac.in/~jawahar/), 
     [**Dr. Vinay P. Namboodiri**](https://vinaypn.github.io/) 
-  * [Research](http://preon.iiit.ac.in/~jerin/bhasha/) focused on developing NMT systems 
-    and curating Multilingual datasets for Low-resourced Indian Languages.
+  * Research focused on developing NMT systems and curating Multilingual 
+    datasets for Low-resourced Indian Languages.
   * Developed a [web application](https://github.com/shashanksiripragada/pib-crawl) 
-    to extract parallel corpus for 10 Indian languages from news sources. 
-  * The corpora released trough this work were featured in translation tasks at [WMT 2020](http://www.statmt.org/wmt20/translation-task.html) and [WAT 2020](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html), premier translation forums.
+    to extract parallel corpus for 10 Indian languages from news sources.
+  * The corpora released trough this work were featured in translation tasks at [WMT 2020](http://www.statmt.org/wmt20/translation-task.html) and [WAT 2020](http://lotus.kuee.kyoto-u.ac.jp/WAT/indic-multilingual/index.html).
+  * Trained NMT models that yield SOTA or competitive performance in [WAT Indic](http://lotus.kuee.kyoto-u.ac.jp/WAT/evaluation/index.html) translation task leaderboards. 
  
-
 
 * June 2017 - May 2019 : **Data Scientist** at **Primera**
   * My goal was to improve patient outcomes and reduce healthcare delivery 
