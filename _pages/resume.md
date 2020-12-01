@@ -6,8 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<a href="shashanksiripragada.github.io/files/Resume_latest.pdf" target="_blank">PDF.</a>
 
-{% include base_path %}
----
-
-Please find the updated resume [here]().
