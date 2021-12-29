@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shashank Siripragada"
 title_separator          : "-"
 name                     : &name "Shashank Siripragada"
-description              : &description "Research Fellow, CVIT"
+description              : &description "Graduate Student, NEU"
 url                      : https://shashanksiripragada.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shashanksiripragada.github.io"
@@ -82,17 +82,17 @@ analytics:
 author:
   name             : "Shashank Siripragada"
   avatar           : "profile.png"
-  bio              : "Research Fellow at CVIT, IIIT Hyderabad"
-  location         : # "Hyderabad"
-  employer         : "IIIT Hyderabad"
+  bio              : "Graduate Student, NEU"
+  location         : "Boston, MA"
+  employer         : #"IIIT Hyderabad"
   googlescholar    : "https://scholar.google.com/citations?user=8LMFVd0AAAAJ&hl=en"
-  email            : "siripragadashashank@gmail.com"
+  email            : "siripragada.s@northeastern.edu"
   researchgate     : "https://www.researchgate.net/profile/Shashank_Siripragada"
   uri              :
   bitbucket        :
   codepen          :
   github           : "shashanksiripragada"
-  linkedin         : "shashank-siripragada-b8762a53"
+  linkedin         : "shashanksiripragada"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
 
 # Reading Files
@@ -233,7 +233,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
