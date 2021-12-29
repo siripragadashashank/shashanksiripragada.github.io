@@ -11,7 +11,7 @@ redirect_from:
 
 Work Experience
 ======
-* May 2019 - Present : **Research Fellow** at **CVIT, IIIT Hyderabad**
+* May 2019 - July 2021 : **Research Fellow** at **CVIT, IIIT Hyderabad**
   * Supervisors: [**Dr. C.V. Jawahar**](https://faculty.iiit.ac.in/~jawahar/), 
     [**Dr. Vinay P. Namboodiri**](https://vinaypn.github.io/) 
   * [Research](http://preon.iiit.ac.in/~jerin/bhasha/) focused on developing NMT systems 
